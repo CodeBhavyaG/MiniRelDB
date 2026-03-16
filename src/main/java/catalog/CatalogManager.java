@@ -1,4 +1,4 @@
-package main.java.catalog;
+package catalog;
 
 public class CatalogManager {
     

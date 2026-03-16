@@ -1,4 +1,4 @@
-package main.java.storage;
+package storage;
 
 public class Page {
         
